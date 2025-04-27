@@ -1,0 +1,74 @@
+.article-body {
+    color: #525368;
+    margin-top: 12px;
+    padding-right: 3px;
+    letter-spacing: 0px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0px;
+}
+
+/* .article-body p {
+    margin-bottom: 10px;
+    margin-top: 10px;
+} */
+
+.article-body ul, .article-body ol {
+    list-style-position: inside; /* Ini membuat bullet berada di dalam kontainer daftar */
+    margin-left: 0; 
+}
+
+.article-body ul {
+    list-style-type: disc;
+}
+
+.article-body ol {
+    list-style-type: decimal;
+}
+
+.article-body blockquote {
+    padding: 8px 38px 6px 46px;
+    background-color: var(--primary-color3);
+    border-radius: 7px;
+    border-left: 8px solid var(--primary-color);
+    margin: 30px 0 18px 0;
+}
+
+.article-body blockquote p {
+    text-align: left;
+}
+
+.article-description {
+    display: -webkit-box;
+    -webkit-line-clamp: 3; /* Menampilkan maksimal 3 baris */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.article-title {
+    display: -webkit-box;
+    -webkit-line-clamp: 2; /* Menampilkan maksimal 3 baris */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.article-thumbnail {
+    width: 100%;
+    aspect-ratio: 77 / 45;
+    object-fit: cover;
+}
+
+.newest-article-thumbnail {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+}
+
+.article-body iframe {
+    width: 100%;
+    aspect-ratio: 16 / 9;   
+}

@@ -1,0 +1,23 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M23.5 7C23.5 7 20.125 13.8276 23.5 23.5C26.875 33.1724 23.5 40 23.5 40" stroke="#328E36" stroke-width="1.75" stroke-linecap="round"/>
+<path d="M39 7C39 7 34.5 13.8276 39 23.5C43.5 33.1724 39 40 39 40" stroke="#328E36" stroke-width="1.75" stroke-linecap="round"/>
+<path d="M55.5 7C55.5 7 52.125 13.8276 55.5 23.5C58.875 33.1724 55.5 40 55.5 40" stroke="#328E36" stroke-width="1.75" stroke-linecap="round"/>
+<path d="M23.5 39C23.5 39 20.125 45.8276 23.5 55.5C26.875 65.1724 23.5 72 23.5 72" stroke="#328E36" stroke-width="1.75" stroke-linecap="round"/>
+<path d="M39 39C39 39 34.5 45.8276 39 55.5C43.5 65.1724 39 72 39 72" stroke="#328E36" stroke-width="1.75" stroke-linecap="round"/>
+<path d="M55.5 39C55.5 39 52.125 45.8276 55.5 55.5C58.875 65.1724 55.5 72 55.5 72" stroke="#328E36" stroke-width="1.75" stroke-linecap="round"/>
+<path d="M7 55.5C7 55.5 13.6207 58.875 23 55.5C32.3793 52.125 39 55.5 39 55.5" stroke="#328E36" stroke-width="1.75" stroke-linecap="round"/>
+<path d="M7 40C7 40 13.6207 44.5 23 40C32.3793 35.5 39 40 39 40" stroke="#328E36" stroke-width="1.75" stroke-linecap="round"/>
+<path d="M7 23.5C7 23.5 13.6207 26.875 23 23.5C32.3793 20.125 39 23.5 39 23.5" stroke="#328E36" stroke-width="1.75" stroke-linecap="round"/>
+<path d="M40 55.5C40 55.5 46.6207 58.875 56 55.5C65.3793 52.125 72 55.5 72 55.5" stroke="#328E36" stroke-width="1.75" stroke-linecap="round"/>
+<path d="M40 40C40 40 46.6207 44.5 56 40C65.3793 35.5 72 40 72 40" stroke="#328E36" stroke-width="1.75" stroke-linecap="round"/>
+<path d="M40 23.5C40 23.5 46.6207 26.875 56 23.5C65.3793 20.125 72 23.5 72 23.5" stroke="#328E36" stroke-width="1.75" stroke-linecap="round"/>
+<circle cx="23.5" cy="23.5" r="3.5" fill="#328E36"/>
+<circle cx="22.5" cy="40.5" r="3.5" fill="#328E36"/>
+<circle cx="38.5" cy="40.5" r="3.5" fill="#328E36"/>
+<circle cx="39.5" cy="22.5" r="3.5" fill="#328E36"/>
+<circle cx="56.5" cy="23.5" r="3.5" fill="#328E36"/>
+<circle cx="55.5" cy="40.5" r="3.5" fill="#328E36"/>
+<circle cx="56.5" cy="55.5" r="3.5" fill="#328E36"/>
+<circle cx="39.5" cy="55.5" r="3.5" fill="#328E36"/>
+<circle cx="23.5" cy="56.5" r="3.5" fill="#328E36"/>
+</svg>
